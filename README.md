@@ -35,7 +35,7 @@
 ## Screenshots
 
 ## User side
-<img src="![screencapture-localhost-8501-2025-05-20-15_09_29](https://github.com/user-attachments/assets/d29b767b-17f5-4495-b3b1-1709cdb5973d)">
+<img src="[![screencapture-localhost-8501-2025-05-20-15_09_29](https://github.com/user-attachments/assets/d29b767b-17f5-4495-b3b1-1709cdb5973d)](https://github.com/VedantKumar2103/ParseIQ/blob/189d321930cf6a59c3a9b818532fbd1f570e9886/User.png)">
 
 
 ## Admin Side
